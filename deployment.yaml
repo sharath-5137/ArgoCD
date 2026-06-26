@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: nginx-container
-          image: sgsk5137/myapp_gasbooking:v1
+          image: sgsk5137/gskhospitals:v1
           ports:
             - containerPort: 80
